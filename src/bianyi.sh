@@ -1,0 +1,1 @@
+g++-5 ../include/Thread.cpp ../include/Condition.hpp ../include/MutexLock.hpp ../include/CountDownLatch.cpp ../include/FileUtil.cpp ../include/LogFile.cpp ../include/Logging.cpp ../include/LogStream.cpp ../include/AsyncLogging.cpp *.cpp -o t -std=c++11 -lpthread
